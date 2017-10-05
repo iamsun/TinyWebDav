@@ -11,7 +11,15 @@ A Single File,Tiny, Python WebDav Server .
     3. It's support PC/OSX/IOS Webdav client.
 
 
-20170907 Change Log:
-===================
+Change Log
+----------
+
+20170907
 1. Fix Coda WebDav access problem.(because Coda WebDav all xml item add xmlns="DAV:".)
 
+Related Posts
+-------------
+
+ - https://forum.omz-software.com/topic/1392/tiny-webdav-server-for-pythonista/
+ - https://forum.omz-software.com/topic/1829/import-scripts-written-on-mac-pc-to-pythonista/
+ 
